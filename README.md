@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JackD27
-- 👀 I’m interested in many differnt activities, like Sports, gaming, coding, and a lot of different shows!!!
+- 👀 I’m interested in many different activities, like Sports, gaming, coding, and a lot of different shows!!!
 - 🌱 I’m currently learning Computer Science at school and learning Front-End at home.
 
 <!---
